@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My New website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum",
+      "author": "jay",
+      "id": 1
+    },
+    {
+      "title": "Cool website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum",
+      "author": "ajay",
+      "id": 2
+    },
+    {
+      "title": "Cool Magazine",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum",
+      "author": "cool",
+      "id": 3
+    },
+    {
+      "title": "rest website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ad pariatur nisi quidem quaerat rerum consectetur iusto soluta reiciendis! Quibusdam expedita architecto fugit dicta itaque ipsa blanditiis voluptatum excepturi earum",
+      "author": "Buddy",
+      "id": 4
+    },
+    {
+      "title": "super man",
+      "body": "cool",
+      "author": "mario",
+      "id": 15
+    },
+    {
+      "title": "baddy",
+      "body": "cdf",
+      "author": "mario",
+      "id": 17
+    },
+    {
+      "title": "ebb",
+      "body": "bb",
+      "author": "yoshi",
+      "id": 19
+    }
+  ]
+}
